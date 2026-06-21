@@ -1,0 +1,15 @@
+KinderAI-Pvt-Ltd/
+│
+├── assets/
+├── css/
+├── js/
+├── images
+├── pages/
+│   ├── about.html
+│   ├── services.html
+│   ├── careers.html
+│   ├── contact.html
+│   └── blog.html
+├── index.html
+├── README.md
+└── LICENSE
