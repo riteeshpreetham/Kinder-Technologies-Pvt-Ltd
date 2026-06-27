@@ -76,7 +76,7 @@ KinderAI Pvt Ltd is a forward-thinking technology company specializing in AI-dri
 * Retail & E-Commerce
 * Manufacturing
 * Logistics & Supply Chain
-* Education
+.* Education
 * Real Estate
 * Telecommunications
 
